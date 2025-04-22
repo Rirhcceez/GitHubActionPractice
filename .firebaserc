@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "deployassignment-aa724",
+    "staging": "deployassignment-aa724"
+  },
+  "targets": {},
+  "etags": {}
 }
